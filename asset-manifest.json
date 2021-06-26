@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/damail/static/css/main.68ed374a.chunk.css",
+    "main.js": "/damail/static/js/main.775db8db.chunk.js",
+    "main.js.map": "/damail/static/js/main.775db8db.chunk.js.map",
+    "runtime-main.js": "/damail/static/js/runtime-main.ae78dea3.js",
+    "runtime-main.js.map": "/damail/static/js/runtime-main.ae78dea3.js.map",
+    "static/js/2.fd8a84c4.chunk.js": "/damail/static/js/2.fd8a84c4.chunk.js",
+    "static/js/2.fd8a84c4.chunk.js.map": "/damail/static/js/2.fd8a84c4.chunk.js.map",
+    "index.html": "/damail/index.html",
+    "static/css/main.68ed374a.chunk.css.map": "/damail/static/css/main.68ed374a.chunk.css.map",
+    "static/js/2.fd8a84c4.chunk.js.LICENSE.txt": "/damail/static/js/2.fd8a84c4.chunk.js.LICENSE.txt",
+    "static/media/dababy.b5f322d8.png": "/damail/static/media/dababy.b5f322d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae78dea3.js",
+    "static/js/2.fd8a84c4.chunk.js",
+    "static/css/main.68ed374a.chunk.css",
+    "static/js/main.775db8db.chunk.js"
+  ]
+}
